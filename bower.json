@@ -1,0 +1,12 @@
+{
+  "name": "node_biz",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "angular-animate": "^1.5.8"
+  }
+}
